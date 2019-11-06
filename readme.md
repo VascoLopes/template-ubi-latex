@@ -6,7 +6,7 @@ Esta versão não oficial é baseada na versão 2.2 do template oficial: "Versã
 
 ## Alterações em relação ao template oficial:
 - **Resolução do problema da não existência do ficheiro "algorithmic.sty"**
-- **Alteração à maneira como são feitos os acrónimos**. Os acrónimos deixam de ser feitos como uma tabela, o que impossibilitava a sua referência, passando a ser feitos com auxílio do pacote "Acronym". Agora podem ser criados com o comando \acro{}{} e citados normalmente, utilizando \ac{} ou um comando similar.
+- **Alteração à maneira como são feitos os acrónimos**. Os acrónimos deixam de ser feitos como uma tabela, o que impossibilitava a sua referência, passando a ser feitos com auxílio do pacote "Acronym". Agora podem ser criados com o comando \acro{}{} e referênciados normalmente, utilizando \ac{} ou um comando similar.
 - **Alteração do tipo de letra para "Trebutchet MS"**. Acrescentou-se os ficheiros necessários e configurou-se o tipo de letra para ser o Trebutchet MS para estar de acordo com o regulamento.
 
 ## Utilização deste template
